@@ -1,0 +1,5 @@
+#Ignore Files
+*.csv
+*.xlsx
+*.pickle
+*.pkl
